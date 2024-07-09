@@ -137,16 +137,16 @@ a:link {
         transform: translateX(0%);
     }
     25%{
-        animation-delay: .4s;
+        animation-delay: 1.4s;
         transform: translateX(-100%);
     }
     50%{
-        animation-delay: .4s;
+        animation-delay: 1.4s;
         transform: translateX(-200%);
     }
 
     75%{
-        animation-delay: .4s;
+        animation-delay: 1.4s;
         transform: translateX(-100%);
     }
     100%{
